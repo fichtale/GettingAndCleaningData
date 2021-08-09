@@ -1,5 +1,6 @@
 CodeBook
 
+
 The run_analysis.R script performs data preparation (cleaning) and is followed by the five required steps, as described in the course project’s instructions.
 
 Download the dataset:
